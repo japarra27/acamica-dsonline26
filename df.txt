@@ -1,0 +1,10 @@
+Dickey-Fuller
+
+p-value < 0.01 = sign 99%
+p-value < 0.05 = sign 95%
+p-value < 0.1 = sign 90%
+
+0.016269
+
+
+yt = m + a*yt-1 + e
